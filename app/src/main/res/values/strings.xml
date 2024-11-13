@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nosh Assignment</string>
+    <string name="whats_on_your_mind">What\'s on your mind?</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="show_all">Show all</string>
+    <string name="explore_all_dishes">Explore all dishes</string>
+    <string name="confused_what_to_cook">Confused what to cook?</string>
+
+    <string name="rice_items">Rice items</string>
+    <string name="indians">Indians</string>
+    <string name="curries">Curries</string>
+    <string name="soups">Soups</string>
+    <string name="desserts">Desserts</string>
+    <string name="snacks">Snacks</string>
+    <string name="italian_spaghetti_pasta">Italian spaghetti pasta</string>
+
+    <string name="jeera_rice">Jeera Rice</string>
+    <string name="paneer_tikka">Paneer Tikka</string>
+    <string name="rabdi">Rabdi</string>
+    <string name="chicken_biryani">Chicken Biryani</string>
+    <string name="alfredo_pasta">Alfredo Pasta</string>
+
+    <string name="placeholder_search">Search for dish or ingredients</string>
+</resources>
